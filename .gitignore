@@ -1,0 +1,4 @@
+# hidden files
+.DS_Store
+.metals
+.vscode
