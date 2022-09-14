@@ -1,7 +1,16 @@
 # hidden files
-.DS_Store
 .settings
 .classpath
 .project
-.metals
+.DS_Store
+.idea
 .vscode
+
+# build files
+build.sbt
+/lib
+/lib_managed
+/project
+/recitations
+/submission
+/target
