@@ -5,6 +5,7 @@
 .DS_Store
 .idea
 .vscode
+.history
 
 # build files
 build.sbt
