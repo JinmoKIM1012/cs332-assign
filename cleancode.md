@@ -3,7 +3,7 @@
 ---
 > **목차**   
 [Chapter 1](#chapter-1-clean-code)  
-[Chapter 2](#chapter-2-meaningful-names)
+[Chapter 2](#chapter-2-meaningful-names)  
 [Chapter 3](#chapter-3-functions)
 ---
 ## Chapter 1: Clean Code
