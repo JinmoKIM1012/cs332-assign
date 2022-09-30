@@ -1,0 +1,17 @@
+# hidden files
+.settings
+.classpath
+.project
+.DS_Store
+.idea
+.vscode
+.history
+
+# build files
+build.sbt
+/lib
+/lib_managed
+/project
+/recitations
+/submission
+/target
